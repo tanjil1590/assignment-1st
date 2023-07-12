@@ -11,8 +11,7 @@
     font-size: 80px;
 font-style: normal;
 font-weight: 800;
-
-
+ 
 }
 .btn-primary{
     color: #FFF;
@@ -35,6 +34,14 @@ border: none;
     padding: 50px 240px 0 240px;
     text-align: center;
     justify-content: space-between;
+}
+.banner-pragraph{
+    color: rgba(39, 39, 39, 0.60);
+
+font-size: 18px;
+
+font-weight: 400;
+
 }
 .banner-img{
    
@@ -242,4 +249,37 @@ margin-bottom: 48px;
     font-weight: 700;
     padding: 18px 30px;
     margin-left: 16px;
+}
+footer{
+    text-align: center;
+    margin-top: 128px;
+    background-color: #111010;
+}
+.flower-shop-name{
+    color: #fff;
+    font-style: 48px;
+    font-weight: 800px;
+    padding-top: 128px;
+
+}
+.buton-color{ color: #E55473;
+
+}
+.footer-description{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    padding-top: 25px;
+
+}
+.copyright{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+
+font-size: 16px;
+
+font-weight: 400;
+padding-top: 32px;
+padding-bottom: 128px;
+
 }
