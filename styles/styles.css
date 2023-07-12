@@ -25,6 +25,7 @@ line-height: normal;
 background: #E55473;
 padding: 20px 43px;
 gap: 10px;
+border: none;
 
 }
 .banner{
@@ -134,5 +135,43 @@ padding: 110px 80px 0px 80px;
     text-decoration-line: underline;
     margin: 0px 240px;
 }
+ .deal-container{
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     border-radius: 8px;
+     border: none;
+     background: rgba(229, 84, 115, 0.05);
 
 
+ }
+ .deal{
+    padding-left: 300px;    
+}
+.deal-title{
+    color: #272727;
+    
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+   
+
+}
+.deal-description{
+
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+
+}
+.deal-button{
+    margin-left: 170px;
+    margin-top: 32px;
+}
+
+.deal-image{
+    padding: 100px 430px 100px 185px;
+}
