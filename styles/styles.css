@@ -1,0 +1,55 @@
+ 
+ body{font-family: 'Lato', sans-serif;
+
+ }
+ .primary-color{
+    color: #E55473;
+ }
+
+nav{
+    background: rgba(229, 84, 115, 0.10);
+    width: 1920px;
+    height: 850px;
+}
+.banner-title{
+    font-size: 80px;
+font-style: normal;
+font-weight: 800;
+
+
+}
+.btn-primary{
+    color: #FFF;
+
+font-size: 20px;
+
+font-weight: 700;
+line-height: normal;
+   border-radius: 8px;
+background: #E55473;
+padding: 20px 43px;
+gap: 10px;
+
+}
+.banner{
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+    align-items: center;
+    padding: 50px 240px 0 240px;
+    text-align: center;
+    justify-content: space-between;
+}
+.banner-img{
+   
+margin-top:50px 240px 0 0 ;
+}
+.banner .banner-img{
+    width:635px ;
+    
+
+}
+.banner-content{
+    padding-right: 97px;
+    width: 708px;
+    text-align: left;
+}
