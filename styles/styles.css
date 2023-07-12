@@ -1,4 +1,7 @@
- 
+*{
+    margin: 0;
+    padding: 0;
+}
  body{font-family: 'Lato', sans-serif;
 
  }
@@ -104,11 +107,15 @@ font-weight: 400;
     
     
 }
+
+
 .flower-left{
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
     padding: 110px 80px 0px 80px;
     border: none;
+   
+   
 
 
 }
@@ -211,7 +218,7 @@ margin-bottom: 48px;
 .image-section{
     display: flex;
     justify-content: space-around;
-    margin: 0px 177px;
+    margin: 0px 177px 128px 177px;
     gap: 20px;
     
 }
